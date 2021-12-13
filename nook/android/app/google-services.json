@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377455795870",
+    "project_id": "nook-75993",
+    "storage_bucket": "nook-75993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377455795870:android:117672cb98a576bc58658f",
+        "android_client_info": {
+          "package_name": "com.sejung.nook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377455795870-n7amd57emgiv53vuuhqu7mf22ub0o9bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIso7veNm27Hl0eHc48aubnlQ4wWUldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377455795870-n7amd57emgiv53vuuhqu7mf22ub0o9bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
