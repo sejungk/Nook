@@ -8,8 +8,14 @@ class AuthService {
   // sign in anonomously
   Future signInAnon() async {
     try {
-      // await _auth
-    } catch (e) {}
+      UserCredential userCredential =
+          await FirebaseAuth.instance.signInAnonymously();
+      User user = userCredential.user!;
+      return user;
+    } catch (e) {
+      print(e.toString());
+      return null;
+    }
   }
 
   // sign in with email and password
