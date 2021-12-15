@@ -25,7 +25,7 @@ class Book {
       Book(
           "fiction",
           "Holding Up the Universe",
-          "Random House Children's Books",
+          "Random House",
           DateTime(2016, 10, 4),
           "assets/images/holding_up_the_universe.jpeg",
           3.8,
@@ -35,7 +35,7 @@ class Book {
       Book(
           "fiction",
           "Holding Up the Universe",
-          "Random House Children's Books",
+          "Random House",
           DateTime(2016, 10, 4),
           "assets/images/in_five_years.jpg",
           3.8,
@@ -55,7 +55,7 @@ class Book {
       Book(
           "fiction",
           "Holding Up the Universe",
-          "Random House Children's Books",
+          "Random House",
           DateTime(2016, 10, 4),
           "assets/images/where_the_crawdads_sing.jpeg",
           3.8,
